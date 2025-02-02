@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb6efc4b-2236-47a1-8f46-66941e4100e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-22.0.1/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/corejava/src/com/ExceptionHandling/CustomException.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jMTQ3z0dNKpU00lPCAYiLsSHWd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.$Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbsDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticOperator07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmStrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryPassword.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BitonicArray (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitonicArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseOperators08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Characters.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Constructors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorsRules13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomException (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypes04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypes05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypes10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElseIf03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncapsulatedComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfAndElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfAndElse01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterThreadCommunication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intro00.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intro1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intro3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intro4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intro5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LamadaExpWithComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaExpressions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LcmAndGcd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Literals06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Monkey.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Monkey01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedIfElse02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parent (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Poly1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Poly1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationalOperators09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RepeatCharacters (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.RepeatCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseANumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Solve.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticModifier06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfAllDivisor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCases04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TestComparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestComparable1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestEncapsulation01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ExceptionHandling.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constructorsChaining12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.highest_lowest_frequency_element.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inheritance01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods09.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tarun/IdeaProjects/vcube&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.arrays03" />
+      <recent name="com.languagefundamentals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumberToWords">
+    <configuration name="Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructuresandalgorithms.Characters" />
+      <module name="code_with_YT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructuresandalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructuresandalgorithms.MaxOccurance" />
+      <module name="code_with_YT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructuresandalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructuresandalgorithms.NumberToWords" />
+      <module name="code_with_YT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructuresandalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatCharacters (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructuresandalgorithms.RepeatCharacters" />
+      <module name="code_with_YT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructuresandalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructuresandalgorithms.RepeatCharacters" />
+      <module name="code_with_YT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructuresandalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.Characters" />
+        <item itemvalue="Application.RepeatCharacters (1)" />
+        <item itemvalue="Application.RepeatCharacters" />
+        <item itemvalue="Application.MaxOccurance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb6efc4b-2236-47a1-8f46-66941e4100e0" name="Changes" comment="" />
+      <created>1721195927472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721195927472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/ArrayFrequency.java</url>
+          <line>9</line>
+          <properties class="com.datastructuresandalgorithms.ArrayFrequency" method="frequency">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/basicmath/CountDigits.java</url>
+          <line>8</line>
+          <properties class="com.datastructuresandalgorithms.basicmath.CountDigits" method="evenlyDivides">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/basicmath/ArmStrongNumber.java</url>
+          <line>16</line>
+          <properties class="com.datastructuresandalgorithms.basicmath.ArmStrongNumber" method="isArmStrong">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/basicmath/SumOfAllDivisor.java</url>
+          <line>7</line>
+          <properties class="com.datastructuresandalgorithms.basicmath.SumOfAllDivisor" method="sumOfDivisors">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/BinaryPassword.java</url>
+          <line>5</line>
+          <properties class="com.datastructuresandalgorithms.BinaryPassword" method="minFlips">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/MaxOccurance.java</url>
+          <line>3</line>
+          <properties class="com.datastructuresandalgorithms.MaxOccurance">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/RepeatCharacters.java</url>
+          <line>20</line>
+          <properties class="com.datastructuresandalgorithms.Characters" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/corejava/src/com/datastructuresandalgorithms/MaxOccurance.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
